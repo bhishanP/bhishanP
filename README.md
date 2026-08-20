@@ -25,41 +25,6 @@ I'm especially interested in building AI systems that are **reliable, observable
 
 ## 🚀 Featured Work
 
-### 🤖 Agentic AI Systems
-
-I build multi-agent systems where specialized agents collaborate through orchestrated workflows.
-
-```text
-                        ┌─────────────────┐
-                        │      User       │
-                        └────────┬────────┘
-                                 │
-                                 ▼
-                        ┌─────────────────┐
-                        │ API / Application│
-                        └────────┬────────┘
-                                 │
-                                 ▼
-                      ┌─────────────────────┐
-                      │  Agent Orchestrator │
-                      └──────────┬──────────┘
-                                 │
-              ┌──────────────────┼──────────────────┐
-              ▼                  ▼                  ▼
-       🔎 Research Agent   📚 RAG Agent     ⚙️ Tool Agent
-              │                  │                  │
-              └──────────────────┼──────────────────┘
-                                 ▼
-                    ┌────────────────────────┐
-                    │ APIs • Data • Knowledge │
-                    │       Base • Tools     │
-                    └────────────────────────┘
-```
-
-I'm particularly interested in making agentic systems **stateful, observable, evaluable, and reliable** rather than simply connecting multiple LLM calls together.
-
----
-
 ### 📚 Personalized Learning with AI
 
 A major project I've worked on focuses on creating **personalized learning experiences using AI**.
@@ -76,23 +41,6 @@ The system combines:
 * 🗄️ Persistent learner data
 
 **Core technologies:** `FastAPI` · `MongoDB` · `LangGraph` · `LLMs` · `Embeddings` · `Vector Databases`
-
----
-
-### ⚙️ AI-Powered Business Automation
-
-I've also worked on AI workflows involving:
-
-* 🎯 Account-Based Marketing
-* 🔎 Lead & contact enrichment
-* 🌐 Web scraping
-* 🔗 CRM automation
-* 📊 Data enrichment
-* 🤖 AI-powered workflows
-* 📈 Financial analysis / FP&A workflows
-
-I enjoy connecting **AI agents + APIs + databases + automation** into complete end-to-end systems.
-
 ---
 
 ## 🛠️ Tech Stack
@@ -181,18 +129,6 @@ I'm exploring areas such as:
 | 🔐 **Security & Privacy** | Secure AI systems and responsible data usage  |
 
 > **I don't just want to learn how to build AI systems. I want to understand how to evaluate, monitor, trace, and responsibly operate them in production.**
-
----
-
-## 💡 How I Like to Build
-
-> **Don't just demonstrate AI — use it to solve a problem.**
-
-My favorite workflow:
-
-**💭 Idea → 🧪 Experiment → 🛠️ Build → 📊 Evaluate → 🔍 Observe → 🚀 Ship**
-
-I enjoy understanding **why a system works, where it fails, and how it can be made better**.
 
 ---
 
